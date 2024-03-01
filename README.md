@@ -1,8 +1,12 @@
+# Stark Tech 前端評測
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+First, create .env.local file based on .env.example, and save your token to .env.local file.
+
+Then, run the development server:
 
 ```bash
 npm run dev
